@@ -1,6 +1,6 @@
-# FrontEnd
+# FrontEnd 
 LaunchX FrontEnd
 
-FrontEnd Launch X
+FrontEnd Launch X -
 
 Carlos Eduardo Vásquez López
